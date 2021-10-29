@@ -117,7 +117,7 @@ ul.features-list li:before {
   content: '';
   left: -2em;
   position: absolute;
-  width: 20px;
+  width: 21px;
   height: 20px;
   background-image: url("../images/bullet.svg");
   background-color: contain;
